@@ -1,6 +1,15 @@
 # Awesome Unsupervised Reinforcement Learning with LLMs
 This repo is a collection of latest papers and repos of unsupervised RL methods for LLMs
 
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Scripts](#scripts)
+- [Results](#results)
+- [Citation](#citation)
+- [Acknowledgement](#acknowledgement)
+
+
 ## Overview
 
 ### Learning with internal rewards
