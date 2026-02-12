@@ -1,4 +1,4 @@
-# Awesome-Unsupervised-Reinforcement-Learning-with-LLMs
+# Awesome Unsupervised Reinforcement Learning with LLMs
 This repo is a collection of latest papers and repos of unsupervised RL methods for LLMs
 
 ## Overview
