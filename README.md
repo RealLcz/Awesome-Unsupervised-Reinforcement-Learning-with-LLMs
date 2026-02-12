@@ -9,6 +9,13 @@ This repo is a collection of latest papers and repos of unsupervised RL methods 
 
 NeurIPS 2025 spotlight. This paper introduces EMPO, an unsupervised RL method aiming at minimizing the semantic entropy of the context，who holds the belief that minimizing entropy on unlabeled data can improve classification accuracy by encouraging model confidence.
 
+[Learn to Reason without External Rewards](https://openreview.net/forum?id=OU9nFEYR2M)  [![GitHub Repo stars](https://img.shields.io/badge/Github-Repo-blue?logo=github)](https://github.com/sunblaze-ucb/Intuitor)
+
+ICLR 2026 poster. This paper introduces an unsupervised metric called **self-certainty**, which demonstrates a better performance than token-level entropy and self-consistency when the response length is getting longer.
+
+
+### Self-play Paradigm
+
 [TTRL: Test-time Reinforcement Learninng](https://arxiv.org/abs/2504.16084)  [![GitHub Repo stars](https://img.shields.io/badge/Github-Repo-blue?logo=github)](https://github.com/PRIME-RL/TTRL)
 
-NeurIPS 2025. This paper introduces a voting mechanism.
+NeurIPS 2025 poster. This paper introduces a voting mechanism.
