@@ -19,3 +19,10 @@ ICLR 2026 poster. This paper introduces an unsupervised metric called **self-cer
 [TTRL: Test-time Reinforcement Learninng](https://arxiv.org/abs/2504.16084)  [![GitHub Repo stars](https://img.shields.io/badge/Github-Repo-blue?logo=github)](https://github.com/PRIME-RL/TTRL)
 
 NeurIPS 2025 poster. This paper introduces a voting mechanism.
+
+
+
+### Other Relavant Interesting Researches
+[Martingale Score: An Unsupervised Metric for Bayesian Rationality in LLM Reasoning](https://arxiv.org/abs/2512.02914) 
+
+NeurIPS 2025 poster. This paper intruduces a metric called **Martingale**, which aims to test whether the LLMs are stuck in belief entrenchment.
