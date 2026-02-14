@@ -22,7 +22,7 @@ NeurIPS 2025 poster. This paper introduces a voting mechanism.
 
 [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335)  [![GitHub Repo stars](https://img.shields.io/badge/Github-Repo-blue?logo=github)](https://github.com/LeapLabTHU/Absolute-Zero-Reasoner)
 
-
+Arxiv 2025-05-06. This paper introduces a self-play RL paradigm for code tasks. Surprisingly, it shows remarkable performance on math tasks, which proves the model's outstanding generalization ability.
 
 ### Other Relavant Interesting Researches
 [Martingale Score: An Unsupervised Metric for Bayesian Rationality in LLM Reasoning](https://arxiv.org/abs/2512.02914) 
