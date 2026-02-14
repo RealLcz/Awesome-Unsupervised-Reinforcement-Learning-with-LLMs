@@ -28,3 +28,7 @@ Arxiv 2025-05-06. This paper introduces a self-play RL paradigm for code tasks. 
 [Martingale Score: An Unsupervised Metric for Bayesian Rationality in LLM Reasoning](https://arxiv.org/abs/2512.02914) 
 
 NeurIPS 2025 poster. This paper intruduces a metric called **Martingale**, which aims to test whether the LLMs are stuck in belief entrenchment.
+
+[Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/abs/2506.10947)  [![GitHub Repo stars](https://img.shields.io/badge/Github-Repo-blue?logo=github)](https://github.com/ruixin31/Spurious_Rewards)
+
+Arxiv 2025-06-12. This paper demonstrates that spurious or weak rewards can also significantly improve Qwen2.5 families' reasoning performance. However, this methods fail when it is adopted to Olmo and LLaMA. Thus, this work highlights the importance of testing across multiple models with differing pretraining distributions, and testing across multiple different baselines, such as format and random rewards, when evaluating reinforcement learning techniques.
