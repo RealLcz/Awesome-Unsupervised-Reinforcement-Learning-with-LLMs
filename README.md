@@ -20,6 +20,8 @@ ICLR 2026 poster. This paper introduces an unsupervised metric called **self-cer
 
 NeurIPS 2025 poster. This paper introduces a voting mechanism.
 
+[Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335)  [![GitHub Repo stars](https://img.shields.io/badge/Github-Repo-blue?logo=github)](https://github.com/LeapLabTHU/Absolute-Zero-Reasoner)
+
 
 
 ### Other Relavant Interesting Researches
