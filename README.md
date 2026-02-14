@@ -13,6 +13,10 @@ NeurIPS 2025 spotlight. This paper introduces EMPO, an unsupervised RL method ai
 
 ICLR 2026 poster. This paper introduces an unsupervised metric called **self-certainty**, which demonstrates a better performance than token-level entropy and self-consistency when the response length is getting longer.
 
+[The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning](https://arxiv.org/pdf/2505.15134)  [![GitHub Repo stars](https://img.shields.io/badge/Github-Repo-blue?logo=github)](https://github.com/shivamag125/EM_PT)
+
+NeurIPS 2025 poster. This paper introduce three methods, all of which aim to minimize the entropy. The difference between them is that they take a role in different stage.
+
 
 ### Self-play Paradigm
 
