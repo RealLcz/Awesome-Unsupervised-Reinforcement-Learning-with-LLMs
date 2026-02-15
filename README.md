@@ -25,12 +25,20 @@ Arxiv 2026-09-19. This paper introduces a novel method which helps RL learn from
 
 Arxiv 2025-05-28. This paper regards the informative entropy as the generation's certainty of uncertainty. Thus, RENT (method of this paper) rewards the prediction token's negative entropy.
 
-
-### Self-play Paradigm
-
 [TTRL: Test-time Reinforcement Learninng](https://arxiv.org/abs/2504.16084)  [![GitHub Repo stars](https://img.shields.io/badge/Github-Repo-blue?logo=github)](https://github.com/PRIME-RL/TTRL)
 
 NeurIPS 2025 poster. This paper introduces a voting mechanism.
+
+[First SFT, Second RL, Third UPT: Continual Improving Multi-Modal LLM Reasoning via Unsupervised Post-training](https://arxiv.org/pdf/2505.22453v2)  [![GitHub Repo stars](https://img.shields.io/badge/Github-Repo-blue?logo=github)](https://github.com/waltonfuture/MM-UPT)
+
+NeurIPS 2025. Similar to TTRL, this paper introduces a voting mechanism.
+
+[Consistent Paths Lead to Truth: Self-Rewarding Reinforcement Learning for LLM Reasoning](https://arxiv.org/pdf/2506.08745)  [![GitHub Repo stars](https://img.shields.io/badge/Github-Repo-blue?logo=github)](https://github.com/sastpg/CoVo)
+
+NeurIPS 2025. This paper introduces **CoVo**, an intrinsic reward mechanism that integrates consistency and volatility via a robust vector-space aggregation strategy.
+
+
+### Self-play Paradigm
 
 [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335)  [![GitHub Repo stars](https://img.shields.io/badge/Github-Repo-blue?logo=github)](https://github.com/LeapLabTHU/Absolute-Zero-Reasoner)
 
