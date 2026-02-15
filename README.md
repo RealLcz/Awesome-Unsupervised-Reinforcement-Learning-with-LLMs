@@ -28,6 +28,10 @@ NeurIPS 2025 poster. This paper introduces a voting mechanism.
 
 Arxiv 2025-05-06. This paper introduces a self-play RL paradigm for code tasks. Surprisingly, it shows remarkable performance on math tasks, which proves the model's outstanding generalization ability.
 
+[SSR-Zero: Simple Self-Rewarding Reinforcement Learning for Machine Translation](https://arxiv.org/pdf/2505.16637)  [![GitHub Repo stars](https://img.shields.io/badge/Github-Repo-blue?logo=github)](https://github.com/Kelaxon/SSR-Zero) 
+
+Arxiv 2025-06-20. This paper introduces SSR-Zero, specifically designed for Machine Translation, which is a fully online method and relies solely on self-judging rewards(Let the trained model simultaneously take a role in **Actor** and **Judge**.).
+
 ### Other Relavant Interesting Researches
 [Martingale Score: An Unsupervised Metric for Bayesian Rationality in LLM Reasoning](https://arxiv.org/abs/2512.02914) 
 
