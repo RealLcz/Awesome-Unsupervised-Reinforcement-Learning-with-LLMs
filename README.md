@@ -32,6 +32,10 @@ Arxiv 2025-05-06. This paper introduces a self-play RL paradigm for code tasks. 
 
 Arxiv 2025-06-20. This paper introduces SSR-Zero, specifically designed for Machine Translation, which is a fully online method and relies solely on self-judging rewards(Let the trained model simultaneously take a role in **Actor** and **Judge**.).
 
+[SeRL: Self-Play Reinforcement Learning for Large Language Models with Limited Data](https://arxiv.org/pdf/2505.20347)  [![GitHub Repo stars](https://img.shields.io/badge/Github-Repo-blue?logo=github)](https://github.com/wantbook-book/SeRL)
+
+NeurIPS 2025. This paper introduces SeRL, a self-play paradigm including 2 components:(1)Self-instruction part, which quickly get high-quality data. (2)Self-rewarding part, specifically it utilizes a voting mechanism. With SeRL, it is easier to enable RL training with limited data.
+
 ### Other Relavant Interesting Researches
 [Martingale Score: An Unsupervised Metric for Bayesian Rationality in LLM Reasoning](https://arxiv.org/abs/2512.02914) 
 
