@@ -41,6 +41,9 @@ NeurIPS 2025. This paper introduces **CoVo**, an intrinsic reward mechanism that
 
 Arxiv 2025-06-11. This paper introduces a new self-rewarding metric: Self-confidence
 
+[Self-Adapating Language Models](https://arxiv.org/pdf/2506.10943)  [![GitHub Repo stars](https://img.shields.io/badge/Github-Repo-blue?logo=github)](https://jyopari.github.io/posts/seal)
+
+NeurIPS 2025 Poster. This paper introduces SEAL, which is a promising step toward language models capable of self-directed adaptation in response to new data
 
 ### Self-play Paradigm
 
