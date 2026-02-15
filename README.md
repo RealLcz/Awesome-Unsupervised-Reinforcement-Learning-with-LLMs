@@ -17,6 +17,10 @@ ICLR 2026 poster. This paper introduces an unsupervised metric called **self-cer
 
 NeurIPS 2025 poster. This paper introduces three methods, all of which aim to minimize the entropy. The difference between them is that they take a role in different stage.
 
+[Surrogate Signals from Format and Length: Reinforcement Learning for Solving Mathematical Problems without Ground Truth Answers](https://arxiv.org/pdf/2505.19439)  [![GitHub Repo stars](https://img.shields.io/badge/Github-Repo-blue?logo=github)](https://github.com/insightLLM/rl-without-gt)
+
+Arxiv 2026-09-19. This paper introduces a novel method which helps RL learn from produced answers itself. They argue that simply supervise (or reward) responses' **format and length** can siginificantly improve model performance.
+
 
 ### Self-play Paradigm
 
