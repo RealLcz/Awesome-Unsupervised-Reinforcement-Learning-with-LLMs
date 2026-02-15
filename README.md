@@ -37,6 +37,10 @@ NeurIPS 2025. Similar to TTRL, this paper introduces a voting mechanism.
 
 NeurIPS 2025. This paper introduces **CoVo**, an intrinsic reward mechanism that integrates consistency and volatility via a robust vector-space aggregation strategy.
 
+[Confidence Is All You Need: Few-Shot RL Fine-tuning of Language Models](https://arxiv.org/pdf/2506.06395v3) 
+
+Arxiv 2025-06-11. This paper introduces a new self-rewarding metric: Self-confidence
+
 
 ### Self-play Paradigm
 
