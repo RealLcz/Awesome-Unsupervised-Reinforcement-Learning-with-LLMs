@@ -21,6 +21,10 @@ NeurIPS 2025 poster. This paper introduces three methods, all of which aim to mi
 
 Arxiv 2026-09-19. This paper introduces a novel method which helps RL learn from produced answers itself. They argue that simply supervising (or rewarding) responses' **format and length** can siginificantly improve model performance.
 
+[Maximizing Confidence Alone Improves Reasoning](https://arxiv.org/pdf/2505.22660)   [![GitHub Repo stars](https://img.shields.io/badge/Github-Repo-blue?logo=github)](https://rent-rl.github.io/)
+
+Arxiv 2025-05-28. This paper regards the informative entropy as the generation's certainty of uncertainty. Thus, RENT (method of this paper) rewards the prediction token's negative entropy.
+
 
 ### Self-play Paradigm
 
