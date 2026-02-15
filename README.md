@@ -49,7 +49,7 @@ NeurIPS 2025 Poster. This paper introduces SEAL, which is a promising step towar
 
 Arxiv 2025-06-25. This paper systematically studies the core of several RL internal rewards and conclude that they are actually theoretically the same: Policy Entropy.
 
-
+***
 ### Self-play Paradigm
 
 [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335)  [![GitHub Repo stars](https://img.shields.io/badge/Github-Repo-blue?logo=github)](https://github.com/LeapLabTHU/Absolute-Zero-Reasoner)
@@ -69,7 +69,7 @@ NeurIPS 2025. This paper introduces SeRL, a self-play paradigm including 2 compo
 Arxiv 2025-05-27. This paper introduces SRT, a voting mechanism similar to TTRL. Differently, it demonstrates several problems of limitations of such methods(SRT, TTRL):Long-time training will lead to reward hacking. To deal with this problem, this paper introduces six ways to counter with it.
 
 
-
+***
 ### Other Relavant Interesting Researches
 [Martingale Score: An Unsupervised Metric for Bayesian Rationality in LLM Reasoning](https://arxiv.org/abs/2512.02914) 
 
