@@ -42,7 +42,7 @@ NeurIPS 2025. This paper introduces SeRL, a self-play paradigm including 2 compo
 
 [Can Large Reasoning Models Self-Train?](https://arxiv.org/pdf/2505.21444)  [![GitHub Repo stars](https://img.shields.io/badge/Github-Repo-blue?logo=github)](https://github.com/tajwarfahim/srt)
 
-Arxiv 2025-05-27. This paper introduces SRT, a voting mechanism similar to TTRL.
+Arxiv 2025-05-27. This paper introduces SRT, a voting mechanism similar to TTRL. Differently, it demonstrates several problems of limitations of such methods(SRT, TTRL):Long-time training will lead to reward hacking. To deal with this problem, this paper introduces six ways to counter with it.
 
 
 
